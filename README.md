@@ -2,7 +2,7 @@
 
 ---
 
-## Banco de dado Relacional
+## Banco de dados Relacional
 
 É um tipo de banco de dados que organiza os dados em **tabelas**, com **linhas e colunas**, e estabelece **relações entre essas tabelas** através de **chaves primárias e estrangeiras**. Essa estrutura permite acessar e manipular informações de forma eficiente, mantendo a integridade dos dados.
 
@@ -25,7 +25,7 @@ Essa estrutura relacional torna o sistema organizado, seguro e fácil de consult
 
 ---
 
-## Banco de dado não Relacional
+## Banco de  não Relacional
 
 Um **banco de dados não relacional** (ou **NoSQL**) é um tipo de banco de dados que **não usa tabelas tradicionais** para armazenar dados. Em vez disso, ele armazena os dados em **formatos flexíveis**, como:
 
